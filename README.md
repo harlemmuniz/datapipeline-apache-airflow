@@ -1,2 +1,2 @@
 # datapipeline-apache-airflow
-Repositório do curso de introdução a data pipelines da Alura Online
+Repositório do projeto para estudos de data pipelines (Apache Airflow)
